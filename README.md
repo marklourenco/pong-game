@@ -1,4 +1,3 @@
-# pong-game
 # Pong Game
 
 This is a simple 2D Pong game created using the Raylib library, written in C++. The game allows for both single-player and multi-player modes, where players can control paddles and try to score points by bouncing a ball past the opponent's paddle.
