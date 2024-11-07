@@ -1,0 +1,63 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (2DMidterm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(12,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(18,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Ball.cpp
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Ball.cpp(5,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Ball.cpp(5,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Ball.cpp(22,23): warning C4305: '*=': truncation from 'double' to 'float'
+  Memory.cpp
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(12,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Memory.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(18,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Memory.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(106,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(107,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(108,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(114,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(115,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(116,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(155,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(156,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(157,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(163,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(164,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Memory.cpp(165,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Menu.cpp
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(12,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(18,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(16,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(19,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(19,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(21,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(24,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(24,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(26,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(29,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(29,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(31,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.cpp(34,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Rect.cpp
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(12,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Rect.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Menu.h(18,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Rect.cpp')
+  
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Rect.cpp(24,22): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Rect.cpp(28,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Rect.cpp(46,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\pong game\2DMidterm\Rect.cpp(54,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  2DMidterm.vcxproj -> C:\Users\lcv2332537\Downloads\pong game\x64\Debug\pong game.exe
