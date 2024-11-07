@@ -86,7 +86,7 @@ Game States:
 ____________________
 In-Game GIFs:
 
-(Insert any screenshots here, if desired)
+![](https://github.com/illustrations/pong game.gif)
 ____________________
 License:
 
