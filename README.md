@@ -1,9 +1,9 @@
 # pong-game
-Pong Game
+# Pong Game
 
 This is a simple 2D Pong game created using the Raylib library, written in C++. The game allows for both single-player and multi-player modes, where players can control paddles and try to score points by bouncing a ball past the opponent's paddle.
 ____________________
-Features:
+# Features:
 
 - Single-Player Mode: Player vs. AI.
 - Multi-Player Mode: Two players can control paddles using keyboard inputs (W/S & UP&DOWN).
@@ -11,13 +11,13 @@ Score System: The first player to reach a score of 3 wins the game.
 Bouncing Ball: Ball bounces off the top and bottom edges of the screen, and player paddles.
 Paddles: Paddles movewith a certain acceleration that speeds up the longer the player moves.
 ____________________
-Requirements:
+# Requirements:
 
 - Raylib library for rendering and game logic.
 - A C++ compiler (GCC, Clang, MSVC, etc.).
 - CMake (for building the project).
 ____________________
-Installation:
+# Installation:
 
 1. Install Raylib
 - Follow the installation instructions for Raylib on their official website. Raylib can be installed on Windows, macOS, and Linux. It may also be installed via package managers like brew (macOS), apt (Linux), or vcpkg (Windows).
@@ -47,7 +47,7 @@ Alternatively, if you are using an IDE like Visual Studio or CLion, you can open
 Windows: pong-game.exe
 macOS/Linux: ./pong-game
 ____________________
-Controls:
+# Controls:
 
 - Single Player Mode:
 
@@ -63,7 +63,7 @@ UP and DOWN for the right player (arrows).
 
 Left click to navigate the main menu and select between Single Player, Multiplayer, or Exit.
 ____________________
-Game Flow:
+# Game Flow:
 
 When the game starts, you'll be presented with the main menu.
 You can choose between Single Player, Multiplayer, or Exit.
@@ -75,7 +75,7 @@ After a point is scored, a short delay occurs before the ball is served again.
 
 Once a player wins, the game will return to the main menu.
 ____________________
-Game States:
+# Game States:
 
 - The game has several states:
 
@@ -84,10 +84,10 @@ Game States:
 - Multi: Multiplayer mode where both paddles are controlled by players.
 - Exit: Exits the game.
 ____________________
-In-Game GIFs:
+# In-Game GIFs:
 
 ![pong gif](https://github.com/user-attachments/assets/fce4cc0b-8569-45f3-a3d0-6c18bc05dfb3)
 ____________________
-License:
+# License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
