@@ -85,8 +85,7 @@ Game States:
 - Exit: Exits the game.
 ____________________
 In-Game GIFs:
-
-![](https://github.com/illustrations/pong-game.gif)
+![pong gif](https://github.com/user-attachments/assets/fce4cc0b-8569-45f3-a3d0-6c18bc05dfb3)
 ____________________
 License:
 
