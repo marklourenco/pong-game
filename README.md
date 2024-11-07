@@ -27,7 +27,7 @@ ____________________
 
 bash
 
-git clone https://github.com/your-username/pong-game.git
+git clone https://github.com/marklourenco/pong-game.git
 cd pong-game
 
 3. Build the project
