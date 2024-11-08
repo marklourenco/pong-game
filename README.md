@@ -83,12 +83,8 @@ The game has several states:
 
 ## Screenshots
 
-(Insert any screenshots here, if desired)
+![pong gif](https://github.com/user-attachments/assets/e386047c-d5f6-40b2-a5bf-7cdaf0d12ab8)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify or enhance the README based on your needs, such as adding screenshots or additional details on the project structure. This format provides clear instructions for users who want to clone and run your Pong game.
