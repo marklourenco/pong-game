@@ -26,7 +26,7 @@ Follow the installation instructions for Raylib on [their official website](http
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/pong-game.git
+git clone https://github.com/marklourenco/pong-game.git
 cd pong-game
 ```
 
